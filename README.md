@@ -6,3 +6,6 @@
 #DEMAND FORCASTING
 
 This is a readme file for the Inventory Management project 
+
+
+* This repo is for demand forcasting project
